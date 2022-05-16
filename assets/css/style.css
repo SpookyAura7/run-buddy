@@ -141,6 +141,14 @@ section {
 .secondary-border {
     border-color: #39a6b2;
 }
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
 /* consolidation end */
 
 /* What We Do Styles */
@@ -187,6 +195,10 @@ section {
 .steps span {
     font-size: 38px;
 }
+/* what you do style end */
+
+
+/* trainer bio section style */
 
 .trainers {
     text-align: center;
@@ -209,4 +221,20 @@ section {
     padding: 35px;
     float: left;
     width: 65%;
+}
+
+.trainer-bio h3 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.trainer-bio h4 {
+    font-weight: lighter;
+    font-size: 26px;
+    margin-bottom: 25px;
+}
+
+.trainer-bio p {
+    font-size: 17px;
+    line-height: 1.3;
 }
